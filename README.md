@@ -1,7 +1,8 @@
 # Helpist
-SF4 - Simple Ticket Manager
-![alt text](https://raw.githubusercontent.com/bZez/Helpist/master/Screenshot_2019-03-12%20HELPIST%20-%20Gestion%20des%20demandes%20MGEL%20Dev%20-%20New%20Ticket.png)
+SF4 - Simple Ticket Manager (based on HelpDesk)
 
-![alt text](https://raw.githubusercontent.com/bZez/Helpist/master/Screenshot_2019-03-12%20HELPIST%20-%20Gestion%20des%20demandes%20MGEL%20Dev%20-.png)
+![helpist](/Screenshot_2019-03-12%20HELPIST%20-%20Gestion%20des%20demandes%20MGEL%20Dev%20-%20New%20Ticket.png)
 
-![alt text](https://raw.githubusercontent.com/bZez/Helpist/master/Screenshot_2019-03-12%20HELPIST%20-%20Gestion%20des%20demandes%20MGEL%20Dev%20-%20Ticket%20index.png)
+![helpist](/Screenshot_2019-03-12%20HELPIST%20-%20Gestion%20des%20demandes%20MGEL%20Dev%20-.png)
+
+![helpist](/Screenshot_2019-03-12%20HELPIST%20-%20Gestion%20des%20demandes%20MGEL%20Dev%20-%20Ticket%20index.png)
